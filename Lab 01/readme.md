@@ -22,7 +22,7 @@ Sec: BCY 5B
 **DHCP Enabled:** yes 
 
 ## Task 03:
-Command: `hostname`
+**Command:** `hostname`
 
 **Hostname:** HP
 
@@ -45,7 +45,7 @@ Command: `hostname`
 **Ip address of google:** `142.250.181.132`
 
 ## Task 07:
-**Reason:** While pinging a hostname like "blue machine," the computer needs to translate that hostname into an IP address using DNS. If the computer cannot resolve the hostname to an IP address, it won't be able to establish a connection.
+**Reason:** While pinging a hostname "blue machine," the computer needs to translate that hostname into an IP address using DNS. If the computer cannot resolve the hostname to an IP address, it won't be able to establish a connection.
 
 ## Task 08:
 Category 5: Provides speeds up to 1,000 Mbps.

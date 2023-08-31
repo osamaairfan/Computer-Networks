@@ -62,7 +62,7 @@ My home network features a basic star topology, which is a common layout for sma
 
 **Components:**
 
-Wireless Router: The core of the network is a dual-band wireless router. It serves as the main connection point to the internet and provides both wired and wireless connectivity. The router also features built-in security measures such as WPA2 encryption and firewall settings.
+* Wireless Router (Core device)
 
 * Desktop Computers
 
@@ -74,15 +74,15 @@ Wireless Router: The core of the network is a dual-band wireless router. It serv
   
 * Network Printer
 
-Advantages of the Topology:
+**Advantages of the Topology:**
 
-Centralized Management: The star topology simplifies network management as all devices are connected to a central hub, making it easier to monitor and troubleshoot.
+* The star topology simplifies network management as all devices are connected to a central hub, making it easier to monitor and troubleshoot.
 
-Ease of Expansion: Adding new devices is straightforward; they can be connected to the router without disrupting the existing network.
+* Adding new devices is straightforward; they can be connected to the router without disrupting the existing network.
 
-Redundancy: In the event of a device or cable failure, other devices on the network remain unaffected.
+* In the event of a device or cable failure, other devices on the network remain unaffected.
 
-Balanced Performance: Devices have individual connections to the router, reducing congestion and improving overall network performance.
+* Devices have individual connections to the router, reducing congestion and improving overall network performance.
 
 Conclusion:
 The star topology has proven effective for my home network due to its simplicity, ease of management, and reliable connectivity. It accommodates various devices used for work, entertainment, and smart home integration while ensuring optimal performance and scalability.

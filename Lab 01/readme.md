@@ -5,13 +5,13 @@ Roll no: 21k-4772
 
 Sec: BCY 5B
 
-### Task 01:
-Command: `ipconfig`
+## Task 01:
+**Command:** `ipconfig`
 
-Ip address: `192.168.1.104`
+**Ip address:** `192.168.1.104`
 
-### Task 02:
-Command: `ipconfig /all`
+## Task 02:
+**Command:** `ipconfig /all`
 
 **Ip address:** `192.168.1.104`
 
@@ -56,7 +56,7 @@ Category 6: Provides speeds up to 10,000 Mbps.
 **Reason:** To connect a switch with another switch, we generally need to use a crosover cable and while connecting a router to a PC, a straight-through cable is used. A crossover cable is designed to swap the transmit and receive pairs between the two devices while a straight-through cable has the same pin configuration on both ends.
 
 ## Task 10:
-My home network features a basic star topology, which is a common layout for small-scale networks. The central hub of the network is a wireless router that serves as both the router and the switch. Various devices are connected to this router, forming a local area network.
+My home network works as a basic star topology, which is a common layout for small-scale networks. The central hub of the network is a wireless router that serves as both the router and the switch. Various devices are connected to this router, forming a local area network.
 
 ![15fig12](https://github.com/osamaairfan/Computer-Networks/assets/115397536/8e0ec0c5-c06a-4bc1-95ce-8d7443c9a340)
 
@@ -70,22 +70,22 @@ My home network features a basic star topology, which is a common layout for sma
 
 * Smartphones and Tablets
 
-* Smart Home Devices
+* Smart Home Devices eg: IOT etc
   
-* Network Printer
+* Network Printer or scanner etc
 
 **Advantages of the Topology:**
 
-* The star topology simplifies network management as all devices are connected to a central hub, making it easier to monitor and troubleshoot.
+* Simplicity: The star topology simplifies network management as all devices are connected to a central hub, making it easier to monitor and troubleshoot.
 
-* Adding new devices is straightforward; they can be connected to the router without disrupting the existing network.
+* Easy connectivity: Adding new devices is straightforward, they can be connected to the router without disrupting the existing network using wireless signals or ethernet cable.
 
-* In the event of a device or cable failure, other devices on the network remain unaffected.
+* Better Redundancy: In the event of a device or cable failure, other devices on the network remain unaffected.
 
-* Devices have individual connections to the router, reducing congestion and improving overall network performance.
+* Balanced Distribution: Devices have individual connections to the router, reducing congestion and improving overall network performance.
 
-Conclusion:
-The star topology has proven effective for my home network due to its simplicity, ease of management, and reliable connectivity. It accommodates various devices used for work, entertainment, and smart home integration while ensuring optimal performance and scalability.
+**Conclusion:**
+The star topology suits the best for my home network due to its simplicity, ease of management, and reliable connectivity. It allows various devices used for work, entertainment, and smart home integration while ensuring best performance and scalability.
 
 
 

@@ -9,5 +9,14 @@ Sec: BCY 5B
 Command: `ipconfig`
 
 Ip address: `192.168.1.104`
+---
+## Task 02:
+Command: 
 
+Answer:
+---
+## Task 03:
+Command:
 
+Answer:
+---

@@ -40,8 +40,6 @@ Command: `hostname`
 ## Task 06:
 **Command:** `tracert`
 
-**Answer:** 
-
 **No. of hops:** 30
 
 **Ip address of google:** `142.250.181.132`
@@ -50,7 +48,6 @@ Command: `hostname`
 **Reason:** While pinging a hostname like "blue machine," the computer needs to translate that hostname into an IP address using DNS. If the computer cannot resolve the hostname to an IP address, it won't be able to establish a connection.
 
 ## Task 08:
-**Reason:**
 Category 5: Provides speeds up to 1,000 Mbps.
 
 Category 6: Provides speeds up to 10,000 Mbps.
@@ -59,6 +56,6 @@ Category 6: Provides speeds up to 10,000 Mbps.
 **Reason:** To connect a switch with another switch, we generally need to use a crosover cable and while connecting a router to a PC, a straight-through cable is used. A crossover cable is designed to swap the transmit and receive pairs between the two devices while a straight-through cable has the same pin configuration on both ends.
 
 ## Task 10:
-
+My home network features a basic star topology, which is a common layout for small-scale networks. The central hub of the network is a wireless router that serves as both the router and the switch. Various devices are connected to this router, forming a local area network.
 
 

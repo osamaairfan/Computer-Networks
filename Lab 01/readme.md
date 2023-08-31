@@ -58,4 +58,34 @@ Category 6: Provides speeds up to 10,000 Mbps.
 ## Task 10:
 My home network features a basic star topology, which is a common layout for small-scale networks. The central hub of the network is a wireless router that serves as both the router and the switch. Various devices are connected to this router, forming a local area network.
 
+![15fig12](https://github.com/osamaairfan/Computer-Networks/assets/115397536/8e0ec0c5-c06a-4bc1-95ce-8d7443c9a340)
+
+**Components:**
+
+Wireless Router: The core of the network is a dual-band wireless router. It serves as the main connection point to the internet and provides both wired and wireless connectivity. The router also features built-in security measures such as WPA2 encryption and firewall settings.
+
+* Desktop Computers
+
+* Laptop Computers
+
+* Smartphones and Tablets
+
+* Smart Home Devices
+  
+* Network Printer
+
+Advantages of the Topology:
+
+Centralized Management: The star topology simplifies network management as all devices are connected to a central hub, making it easier to monitor and troubleshoot.
+
+Ease of Expansion: Adding new devices is straightforward; they can be connected to the router without disrupting the existing network.
+
+Redundancy: In the event of a device or cable failure, other devices on the network remain unaffected.
+
+Balanced Performance: Devices have individual connections to the router, reducing congestion and improving overall network performance.
+
+Conclusion:
+The star topology has proven effective for my home network due to its simplicity, ease of management, and reliable connectivity. It accommodates various devices used for work, entertainment, and smart home integration while ensuring optimal performance and scalability.
+
+
 

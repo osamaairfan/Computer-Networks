@@ -7,7 +7,6 @@ Sec: BCY 5B
 
 ## Task 01:
 Command: `ipconfig`
-
 Ip address: `192.168.1.104`
 ---
 ## Task 02:

@@ -48,6 +48,8 @@ Sec: BCY 5B
 **Reason:** While pinging a hostname "blue machine," the computer needs to translate that hostname into an IP address using DNS. If the computer cannot resolve the hostname to an IP address, it won't be able to establish a connection.
 
 ## Task 08:
+Given below are the type of cables which best suits for a normal home installation depending upon the speed.
+
 Category 5: Provides speeds up to 1,000 Mbps.
 
 Category 6: Provides speeds up to 10,000 Mbps.

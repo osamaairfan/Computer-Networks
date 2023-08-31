@@ -39,8 +39,11 @@ Command: `hostname`
 
 ## Task 06:
 **Command:** `tracert`
+
 **Answer:** 
+
 **No. of hops:** 30
+
 **Ip address of google:** `142.250.181.132`
 
 ## Task 07:

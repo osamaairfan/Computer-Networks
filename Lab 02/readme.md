@@ -39,3 +39,12 @@ Sec: BCY 5B
 6) Less common and less efficient in modern networks.
 
 ## Task 03:
+### Physical Mode:
+1) Involves tangible hardware and its physical properties.
+2) Deals with components like cables, devices, and their real-world characteristics.
+3) Focuses on maintenance and troubleshooting of hardware.
+
+### Logical Mode:
+1) Involves abstract, software-based concepts.
+2) Deals with data organization, protocols, programming, and information flow.
+3) Focuses on configuring software, data management, and algorithm design.

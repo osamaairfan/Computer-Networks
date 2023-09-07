@@ -24,18 +24,23 @@ Sec: BCY 5B
 ## Task 02:
 ### Switch:
 1) Operates at Layer 2 of the OSI model i.e Data link layer.
+
 2) Forwards data based on MAC addresses.
+
 3) Create multiple collision domains to reduce collisions and reduce network performance.
+
 4) Provides dedicated bandwidth per port.
+
 5) Offers better security and efficiency.
+
 6) More expensive and commonly used in modern networks.
 
 ### Hub:
-Operates at Layer 1 i.e the physical link layer.
-Broadcasts data to all connected devices.
-Creates a single collision domain which slows down the network.
-Shares bandwidth among all devices.
-Offers lower security and efficiency.
-Less common and less efficient in modern networks.
+1) Operates at Layer 1 i.e the physical link layer.
+2) Broadcasts data to all connected devices.
+3) Creates a single collision domain which slows down the network.
+4) Shares bandwidth among all devices.
+5) Offers lower security and efficiency.
+6) Less common and less efficient in modern networks.
 
 ## Task 03:

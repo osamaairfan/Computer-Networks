@@ -12,9 +12,30 @@ Sec: BCY 5B
 ### PC 1 to PC 2 connectivity:
 ![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/dc5c2a1e-5b24-4cff-90c6-a5cc43038e3e)
 
-## PC 2 to PC 3 connectivity:
+### PC 2 to PC 3 connectivity:
 ![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/255c8a4b-09f1-43c1-b087-18b37ea5f894)
 
-## PC 3 to PC 4 connectivity:
+### PC 3 to PC 4 connectivity:
 ![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/65a80298-3977-46d6-9c6c-505ba9c8f144)
 
+### Packet header format of ARP:
+![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/04d1ff2f-7d07-4abe-a45c-ec593e39b29a)
+
+## Task 02:
+### Switch:
+Operates at Layer 2 of the OSI model i.e Data link layer.
+Forwards data based on MAC addresses.
+Create multiple collision domains to reduce collisions and reduce network performance.
+Provides dedicated bandwidth per port.
+Offers better security and efficiency.
+More expensive and commonly used in modern networks.
+
+### Hub:
+Operates at Layer 1 i.e the physical link layer.
+Broadcasts data to all connected devices.
+Creates a single collision domain which slows down the network.
+Shares bandwidth among all devices.
+Offers lower security and efficiency.
+Less common and less efficient in modern networks.
+
+## Task 03:

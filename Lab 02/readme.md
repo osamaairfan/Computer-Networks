@@ -40,11 +40,13 @@ Sec: BCY 5B
 
 ## Task 03:
 ### Physical Mode:
-1) Involves tangible hardware and its physical properties.
-2) Deals with components like cables, devices, and their real-world characteristics.
-3) Focuses on maintenance and troubleshooting of hardware.
+1) It involves physical hardware and its physical properties.
+2) It deals with components like cables, device etc.
+3) It focuses on maintenance and troubleshooting of hardware.
+4) Example: Plugging in a computer system or fixing a broken cable.
 
 ### Logical Mode:
-1) Involves abstract, software-based concepts.
-2) Deals with data organization, protocols, programming, and information flow.
-3) Focuses on configuring software, data management, and algorithm design.
+1) It involves intellectual, software-based concepts.
+2) It deals with data organization, protocols, programming.
+3) It focuses on setting up a software, data management, and designing algorithms.
+4) Example: Sending messages on the internet or managing files on your computer system.

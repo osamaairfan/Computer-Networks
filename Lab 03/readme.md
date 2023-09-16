@@ -18,6 +18,7 @@ Destination IP: `172.217.17.78`
 ICMP Type: `8 (Echo (ping) request)`
 
 ICMP Code: `0`
+
 > Additionally it also shows checksum, identifiers and sequence numbers as shown in the screenshot below: 
 
 ![image](https://github.com/osamaairfan/Computer-Networks-Labs/assets/115397536/3d28909e-c863-41db-8968-c61345063a39)

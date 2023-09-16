@@ -29,3 +29,22 @@ ICMP Code: `0`
 > **Identifier:** 16 bits, equivalent to 2 bytes. It also depends on the specific ICMP message type and implementation.
 
 > **Sequence Numbers:** 16 bits, equivalent to 2 bytes. It also depends on the specific ICMP message type and implementation.
+
+### Task 05:
+ICMP Type: `0 (Echo (ping) reply)`
+
+ICMP Code: `0`
+
+> Additionally it also shows checksum, identifiers and sequence numbers as shown in the screenshot below:
+
+> **Checksum:** 16 bits, equivalent to 2 bytes.
+
+> **Identifier:** 16 bits, equivalent to 2 bytes. It also depends on the specific ICMP message type and implementation.
+
+> **Sequence Numbers:** 16 bits, equivalent to 2 bytes. It also depends on the specific ICMP message type and implementation.
+
+![image](https://github.com/osamaairfan/Computer-Networks-Labs/assets/115397536/40b87f8d-1905-4e2a-8a63-060fb33a76ec)
+
+### Task 06:
+![image](https://github.com/osamaairfan/Computer-Networks-Labs/assets/115397536/2f272408-cddb-404f-8c9c-a166d5dab8b3)
+

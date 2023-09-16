@@ -6,8 +6,9 @@ Roll no: 21k-4772
 Sec: BCY 5B
 
 ## Task 01:
-### Network Diagram
+> ### Network Diagram
 ![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/cf0b81ff-f1ed-4362-941d-b3dc8fc99cc4)
+
 
 > ### PC 1 to PC 2 connectivity:
 ![image](https://github.com/osamaairfan/Computer-Networks/assets/115397536/dc5c2a1e-5b24-4cff-90c6-a5cc43038e3e)
